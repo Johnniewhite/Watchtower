@@ -34,7 +34,7 @@ setup(
     ],
     entry_points={
         "console_scripts": [
-            "system-monitor=system_monitor:main",
+            "system-monitor-cli=system_monitor:main",
         ],
     },
 ) 
