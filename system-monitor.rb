@@ -3,7 +3,7 @@ class SystemMonitor < Formula
 
   desc "Comprehensive system monitoring tool with real-time insights"
   homepage "https://github.com/johnniewhite/watchtower"
-  url "https://files.pythonhosted.org/packages/source/w/watchtower/watchtower-0.1.0.tar.gz"
+  url "https://files.pythonhosted.org/packages/source/w/watchtower/watchtower-0.1.1.tar.gz"
   sha256 "5478fc1bb904d05e45a3b31990cc1a3ece35e9e290432c4ed830dc92220a6ced"
   license "MIT"
 
