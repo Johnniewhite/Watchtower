@@ -74,16 +74,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For questions or support, please contact [boluwatifeeri@gmail.com](mailto:boluwatifeeri@gmail.com).
-
-```
-
-### Explanation:
-
-- **Features**: Lists the main capabilities of the application.
-- **Installation**: Provides step-by-step instructions to set up the project.
-- **Usage**: Explains how to run the application and use its features.
-- **Configuration**: Offers guidance on customizing the application.
-- **Troubleshooting**: Addresses common issues users might encounter.
-- **Contributing**: Encourages community contributions.
-- **License**: States the licensing terms.
-- **Contact**: Provides a way for users to reach out for support.
